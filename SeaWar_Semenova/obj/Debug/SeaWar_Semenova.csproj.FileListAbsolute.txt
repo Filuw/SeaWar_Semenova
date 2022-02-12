@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\SeaWar_Semenova\bin\Debug\SeaWars.exe.config
+C:\Users\Дарья\source\SeaWar_Semenova\bin\Debug\SeaWars.exe
+C:\Users\Дарья\source\SeaWar_Semenova\bin\Debug\SeaWars.pdb
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.Form1.resources
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.exe
+C:\Users\Дарья\source\SeaWar_Semenova\obj\Debug\SeaWars.pdb
